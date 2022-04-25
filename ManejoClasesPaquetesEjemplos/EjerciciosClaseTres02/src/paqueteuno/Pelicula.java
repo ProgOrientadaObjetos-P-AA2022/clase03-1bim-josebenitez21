@@ -10,5 +10,5 @@ package paqueteuno;
  * @author reroes
  */
 public class Pelicula {
-    protected int version;
+    public int version;
 }

@@ -10,4 +10,6 @@ public class Hospital {
     String nombre;
     int numeroCamas;
     double presupuesto;
+    String enfermedades;
+    
 }
